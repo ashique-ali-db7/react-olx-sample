@@ -162,3 +162,11 @@
     display: none;
   }
 }
+
+.brandName{
+  cursor: pointer;
+}
+
+.logoutlink{
+  cursor: pointer;
+}
